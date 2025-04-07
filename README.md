@@ -100,7 +100,8 @@ Multilingual (726.50 bits):
 ## License
 
 This project is released under the MIT License - see the LICENSE file for details.
-
+This project is also the beginning of the worlds first smart cryptex. I've had no
+success with crowdfunding so these addresses are it.
 I lost 50 bucks with my first two nights of crypto. Just 3 dollars would make
 my day!
 
