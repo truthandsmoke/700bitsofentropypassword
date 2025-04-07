@@ -1,0 +1,4 @@
+# This script uses only Python standard library modules (random, string, math, sys, os)
+# No external dependencies are required
+
+# Python 3.6+ is recommended 
