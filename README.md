@@ -1,6 +1,6 @@
 # Multilingual Password Generator
 
-A powerful, high-entropy password generator supporting multiple languages and scripts for maximum security.
+An offline powerful, high-entropy password generator supporting multiple languages and scripts for maximum security.
 
 ## Features
 
