@@ -101,6 +101,29 @@ Multilingual (726.50 bits):
 
 This project is released under the MIT License - see the LICENSE file for details.
 
+Bitcoin
+bitcoin:1FH3yda1povxot1nY9jZYoS4ZSjVQUx9t7
+
+Bitcoin:3NnbEapmFAPDEJ9W8WXm4g8x3mWuub6qZ5
+
+Ethereum
+0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
+
+0x4d04CEe3FfFe959F6DDE2A0b678fC1146fb052f3
+
+SOL
+5CbPgKffMCDRsQsAXxm5vUJpy9HuLxg5HByKbfFszqEH
+
+Zelle
+https://enroll.zellepay.com/qr-codes?data=ewogICJuYW1lIiA6ICJOQVRIQU4gQVNTQUYiLAogICJhY3Rpb24iIDogInBheW1lbnQiLAogICJ0b2tlbiIgOiAiKDkyNSkgNDUwLTk1NTAiCn0=
+
+PayPal
+https://www.paypal.com/qrcodes/p2pqrc/WFEUVNJPT35CY
+
+Cashapp 
+$beggarbillionaire
+
+
 ## Author
 
 Created with security and internationalization in mind. 
